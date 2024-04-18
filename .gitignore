@@ -11,6 +11,7 @@
 *.sln.docstates
 .idea/
 .vscode/
+.vs/
 
 # Build results
 
@@ -253,3 +254,6 @@ bh_unicode_properties.cache
 # Sublime-github package stores a github token in this file
 # https://packagecontrol.io/packages/sublime-github
 GitHub.sublime-settings
+
+# vcpkg installed packages
+vcpkg_installed/

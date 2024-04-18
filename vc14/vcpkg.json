@@ -1,0 +1,5 @@
+
+    {
+        "dependencies": [ "boost-iostreams", "boost-asio", "boost-system", "boost-variant", "boost-lockfree", "luajit", "glew", "boost-filesystem", "boost-uuid", "boost-thread", "physfs", "openal-soft", "libogg", "libvorbis", "zlib", "opengl", "openssl"],
+        "builtin-baseline": "501cb01e517ee5689577bb01ba8bd1b4c1041a53"
+    }
